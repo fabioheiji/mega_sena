@@ -1,4 +1,4 @@
-# Develop this project just for fun
+# Developed this project just for fun
 
 - This project performs web scraping on the website https://www.megasena.com/resultados to capture Megasena's historical data.
 - Furthermore, several data treatments needed to be carried out as the data coming from the website was not consistent.
